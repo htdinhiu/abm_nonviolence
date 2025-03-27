@@ -1,0 +1,8 @@
+openpyxl
+pandas
+numpy
+notebook
+mesa==2.4.0
+matplotlib
+statsmodels
+dill

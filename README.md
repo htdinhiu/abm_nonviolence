@@ -6,7 +6,7 @@ nonviolence_revolution.py <n> <y/n> <s>
 where 
 <n> is replaced with the number of simulations you want in the batch run,
 <y/n> indicates whether simulation results will be saved to a database file batch_run/baseline_n_s.db. A y means the simulation results will be saved. 
-#<s> is a suffix of the database filename. 
+<s> is a suffix of the database filename. 
 
 For example, the following command line
 python nonviolence_revolution.py 10 y test
